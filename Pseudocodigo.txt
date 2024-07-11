@@ -1,0 +1,9 @@
+1 Inicio
+2 Se inicializan las variables ValorNumero = 1 y ValorSuma = 0
+3 Se inicia el clico para sumar ValorNumero = ValorNumero + 1
+4 Se asigna el acomulador ValorSuma = ValorSuma + ValorNumero
+5 Se pregunta si ValorNumero es igual a 10
+6 Si ValorNumero es igual a 10 se devuelve al paso 3
+7 Si valorNumero no es igual a 10 se realiza la operación de suma
+8 Fin del si
+9 Fin
